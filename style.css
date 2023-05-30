@@ -312,7 +312,9 @@ hr {
      hamburger
 ──────────────────*/
 .hamburger {
-	display: none;
+	display: flex;
+	flex-dir:column;
+	right:3%;
 }
 
 .hamburger div{
