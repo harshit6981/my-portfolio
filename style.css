@@ -398,7 +398,7 @@ hr {
 	.hamburger{
 		position:absolute;
 		top: 17px;
-		right: 25%;
+		right: 3%;
 		display: block;
 		cursor:pointer;
 		z-index: 5;
